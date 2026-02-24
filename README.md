@@ -29,10 +29,10 @@ The **AI-Powered Study Buddy** is a project designed to solve this by providing 
    cd ai-study-buddy-capstone
 
 2.Install the required dependencies:
-Bash
+ ```bash
 pip install -r requirements.txt
-
 3.Run the Streamlit application:
-Bash
+ ```bash
 streamlit run app.py
+
 
